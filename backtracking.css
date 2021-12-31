@@ -1,0 +1,26 @@
+h1 {
+    margin: 0px 0px 0px 0px;
+}
+p {
+    margin-top: 0px;
+}
+pre {
+    font-family: verdana, Arial, Helvetica, sans-serif;
+    color: #660000;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+code {
+    font-family: verdana, Arial, Helvetica, sans-serif;
+    color: #660000;
+}
+table {
+    align-items: center;
+    margin-bottom : 0px;
+}
+
+LeftIt {
+    margin: 0px 0px 0px 0px;
+}
